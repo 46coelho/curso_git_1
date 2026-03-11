@@ -1,0 +1,3 @@
+[submodule "automatizacao"]
+	path = automatizacao
+	url = https://github.com/46coelho/submodulo.git
